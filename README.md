@@ -60,7 +60,7 @@ The main goal of this project is to:
 ## 📈 Future Improvements
 
 * 🔐 User authentication (Admin & Student login)
-* 🗄️ Database integration (MongoDB / Firebase)
+* 🗄️ Database integration (MongoDB )
 * 📊 Dashboard with analytics
 * 📱 Responsive design for mobile devices
 
